@@ -1,0 +1,10 @@
+// right below WinMain()
+
+# ifndef PROTECTION_CHK_DISABLED
+	if(!Check())
+	{
+# ifndef PROTECTION_DISABLED
+		exit(ERROR_VALIDATION);
+# endif
+	}
+# endif

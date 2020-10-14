@@ -1,0 +1,9 @@
+    <ClInclude Include="..\..\..\License\Application\Check.h" />
+    <ClInclude Include="..\..\..\License\Application\CheckClass.h" />
+    <ClInclude Include="..\..\..\License\Application\CheckFile.h" />
+    <ClInclude Include="..\..\..\License\StampHash.h" />
+
+    <ClCompile Include="..\..\..\License\Application\Check.cpp" />
+    <ClCompile Include="..\..\..\License\Application\CheckClass.cpp" />
+    <ClCompile Include="..\..\..\License\Application\CheckFile.cpp" />
+    <ClCompile Include="..\..\..\License\StampHash.cpp" />

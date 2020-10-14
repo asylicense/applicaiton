@@ -5,7 +5,7 @@
 */
 
 # include <CheckParams.h>
-# include <Params.h>
+# include "..\\Params.h"
 
 # include "Check.h"
 
